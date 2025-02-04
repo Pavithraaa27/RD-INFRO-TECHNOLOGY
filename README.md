@@ -1,2 +1,2 @@
-this is the first task
+first task
 TO DO LIST
