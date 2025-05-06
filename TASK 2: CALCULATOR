@@ -1,5 +1,4 @@
 # This is a simple calculator program in Python
-# It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 # Step 1: Ask the user to input the first number
 print("Welcome to the simple calculator!")
