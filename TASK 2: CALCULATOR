@@ -1,4 +1,3 @@
-# This is a simple calculator program in Python
 
 # Step 1: Ask the user to input the first number
 print("Welcome to the simple calculator!")
