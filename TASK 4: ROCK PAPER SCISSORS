@@ -14,6 +14,7 @@ def play_game():
     # Computer input
     computer_choice = random.choice(choices)
     print(f"Computer chose: {computer_choice}")
+
     
     # Determine winner
     if user_choice == computer_choice:
