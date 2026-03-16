@@ -26,6 +26,7 @@ def search_contact():
     if not found:
         print("Contact not found.")
 
+
 def update_contact():
     name = input("Enter name to update: ")
     if name in contacts:
