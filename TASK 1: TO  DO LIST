@@ -2,6 +2,7 @@
 tasks = []
 
 
+
 # Function to display all tasks
 def view_tasks():
     if not tasks:
