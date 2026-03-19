@@ -22,7 +22,6 @@ if operation == "+":
     result = num1 + num2
     print(f"The result of {num1} + {num2} is: {result}")
 
-
 # Subtraction
 elif operation == "-":
     result = num1 - num2
