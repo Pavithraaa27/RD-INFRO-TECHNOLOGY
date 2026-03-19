@@ -11,8 +11,6 @@ print("3. Multiplication (*)")
 print("4. Division (/)")
 operation = input("Enter the operation (+, -, *, /): ")  # Store the operation as a string
 
-
-
 # Step 3: Ask the user to input the second number
 num2 = float(input("Please enter the second number: "))
 
