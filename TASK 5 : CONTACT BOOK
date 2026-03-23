@@ -15,7 +15,6 @@ def view_contacts():
         for name, details in contacts.items():
             print(f"Name: {name}, Phone: {details['phone']}")
 
-
 def search_contact():
     search_term = input("Enter name or phone number: ")
     found = False
