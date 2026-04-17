@@ -11,7 +11,7 @@ def play_game():
     if user_choice not in choices:
         print("Invalid input! Please enter rock, paper, or scissors.")
         return
-    
+
     # Computer input
     computer_choice = random.choice(choices)
     print(f"Computer chose: {computer_choice}")
