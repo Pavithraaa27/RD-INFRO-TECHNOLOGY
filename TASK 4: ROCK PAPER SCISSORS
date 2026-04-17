@@ -5,7 +5,8 @@ def play_game():
     
     # User input
     user_choice = input("Enter rock, paper, or scissors: ").lower()
-    
+
+
     # Validate input
     if user_choice not in choices:
         print("Invalid input! Please enter rock, paper, or scissors.")
