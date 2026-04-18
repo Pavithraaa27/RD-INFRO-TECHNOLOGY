@@ -15,7 +15,6 @@ def add_task():
     task = input("Enter the task: ")
     tasks.append(task)
     print("Task added.")
-
 # Function to delete a task
 def delete_task():
     try:
