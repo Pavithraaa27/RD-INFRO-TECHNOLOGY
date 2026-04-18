@@ -30,6 +30,7 @@ def delete_task():
     except ValueError:
         print("Please enter a valid number.")
 
+
 # Main program loop
 def main():
     while True:
